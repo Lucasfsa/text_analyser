@@ -4,7 +4,7 @@ import Core from './components/Core.vue'
 
 <template>
   <main  class="d-flex justify-content-center">
-    <Core />
+    <Core/>
   </main>
 </template>
 

@@ -13,7 +13,7 @@ const loading = ref(false)
 const initialize = ref(true)
 
 const axiosInstance = axios.create({
-  baseURL: 'https://2727d458-30ae-4d9a-890d-8dd3fddefd0e-00-d7o63dzltx2m.worf.replit.dev:3002/',
+  baseURL: 'https://2727d458-30ae-4d9a-890d-8dd3fddefd0e-00-d7o63dzltx2m.worf.replit.dev:3003/',
   headers: {
     'Content-Type': 'application/json',
     'Accept': '*/*'
